@@ -1,2 +1,2 @@
 # vuejs-basic
-Documentation basic VueJS
+VueJS basic
